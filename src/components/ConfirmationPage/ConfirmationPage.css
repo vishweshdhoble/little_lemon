@@ -1,0 +1,19 @@
+.confirmation-container {
+    display: grid;
+    justify-content: center;
+    margin: 1rem;
+    grid-template-columns: 80%;
+}
+
+
+.confirmation-details { 
+   text-align: center;
+   border: #495E57 solid 1rem;
+   padding: 1rem
+}
+
+.detail-row {
+display: grid;
+margin:2rem;
+grid-template-columns: 50% 50%;
+}

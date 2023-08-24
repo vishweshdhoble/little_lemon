@@ -1,0 +1,29 @@
+.hero-container {
+    display:flex;
+    justify-content: space-around;
+    padding-bottom: 3em;
+    padding-top: 3em;
+}
+.hero-description {
+    width: 50%
+}
+.hero-img {
+    border-radius: 20%;
+    width: 335PX;
+    height: 338px;
+    object-fit: none;
+    object-position: 50%;
+}   
+
+.little-lemon-btn {
+    background-color: #F4CE14;
+    padding: 1em 2em;
+    border-radius: 16px;
+}
+
+.hero-img-container {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
